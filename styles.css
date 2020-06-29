@@ -1,0 +1,30 @@
+h1,h2,ul,p{
+	color: lightgrey;
+}
+p,ul {
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+body {
+	background-color: black;
+	background-image: url(https://www.seriangolo.it/wp-content/uploads/2017/12/Seriangolo-1.jpg)
+}
+div {
+	border: 3px solid brown;
+	border-collapse: collapse;
+	background-color: rgba(47, 79, 79, 0.5);
+	padding: 10px;
+}
+a:link {
+	color: crimson;
+	text-decoration: none;
+}
+a:visited {
+	color: crimson;
+	text-decoration: none;
+}
+a:active {
+  color: lightgrey;
+  background-color: transparent;
+  text-decoration: underline;
+}
